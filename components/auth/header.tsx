@@ -20,7 +20,7 @@ export const Header = ({
             <h1 className={cn(
                 'text-3xl font-semibold', font.className
             )}>
-                Auth
+                Twitch Auth
             </h1>
             <p className="text-muted-foreground">
                 {label}
